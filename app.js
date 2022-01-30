@@ -86,7 +86,7 @@ function createRegularCard(element, timeframe) {
     <div class="regular-card ${title.toLowerCase().replace(/\s/g, '')}">
     <div class="data-card">
       <div class="row">
-        <h3>${title}</h3>
+        <h3 class="title">${title}</h3>
         <div class="points">
           <div class="point"></div>
           <div class="point"></div>
@@ -94,8 +94,8 @@ function createRegularCard(element, timeframe) {
         </div>
       </div>
       <div class="row-2">
-        <h4 class=hours>${current}hrs</h4>
-        <h5 class=description>${timeframeMsg[timeframe]} - ${previous}hrs</h5>
+        <h4 class="hours">${current}hrs</h4>
+        <h5 class="description">${timeframeMsg[timeframe]} - ${previous}hrs</h5>
       </div>
     </div>
   </div>`
