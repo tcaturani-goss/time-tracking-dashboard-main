@@ -237,31 +237,31 @@ h5 {
 /* ------- Card Top Images and Colors ------- */
 .work {
   background-color: var(--Light-red-work);
-  background-image: url(/images/icon-work.svg);
+  background-image: url(icon-work.svg);
 }
 .play {
   background-color: var(--Soft-blue-play);
-  background-image: url(/images/icon-play.svg);
+  background-image: url(icon-play.svg);
   background-position: 92% -0.25rem;
 }
 .study {
   background-color: var(--Light-red-study);
-  background-image: url(/images/icon-study.svg);
+  background-image: url(icon-study.svg);
   background-position: 93% -0.25rem;
 }
 .exercise {
   background-color: var(--Lime-green-exercise);
-  background-image: url(/images/icon-exercise.svg);
+  background-image: url(icon-exercise.svg);
   background-position: 93% -0.025rem;
 }
 .social {
   background-color: var(--Violet-social);
-  background-image: url(/images/icon-social.svg);
+  background-image: url(icon-social.svg);
   background-position: 95% -0.8rem;
 }
 .selfcare {
   background-color: var(--Soft-orange-selfcare);
-  background-image: url(/images/icon-self-care.svg);
+  background-image: url(icon-self-care.svg);
   background-position: 94.5% -0.575rem;
 }
 
