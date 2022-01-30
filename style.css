@@ -231,6 +231,7 @@ h5 {
 .attribution {
   display: flex;
   justify-content: center;
+  margin-top: 1rem;
   color: hsl(0, 0%, 100%);
 }
 /* ------- Card Top Images and Colors ------- */
